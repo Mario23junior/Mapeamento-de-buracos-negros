@@ -113,7 +113,7 @@ Você deve ver uma saída como a seguinte:
 
 ## 🔧 🔨 🛠  Construído com ⛏ 🪚 🔩 ⚙️
 
-* [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* [Java 18](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 * [Spring boot](https://spring.io/projects/spring-boot)
 * [H2](https://www.h2database.com/html/main.html)
 * [Eclipse](https://www.eclipse.org/downloads/)
