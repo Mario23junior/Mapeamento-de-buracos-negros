@@ -36,7 +36,14 @@ Dados de consulta e pesquisa, as informações contida foram desenvolvidas usan
 Os buracos negros estáticos mais simples têm massa, mas não têm nem carga elétrica nem momento angular. 
 Esses buracos negros são frequentemente chamados de buracos negros de Schwarzschild, em homenagem a Karl Schwarzschild, que descobriu essa solução em 1916.
 <p>Segundo o teorema de Birkhoff, é a única solução a vácuo esfericamente simétrica.</p>
-Isso significa que não há diferença observável à distância entre o campo gravitacional de um buraco negro e o de qualquer outro objeto esférico da mesma massa
+Isso significa que não há diferença observável à distância entre o campo gravitacional de um buraco negro e o de qualquer outro objeto esférico da mesma massa</p>
+
+<p>Também existem soluções que descrevem buracos negros mais gerais. Buracos negros carregados sem rotação são descritos pela métrica de Reissner-Nordström, enquanto a métrica de Kerr descreve um buraco negro rotativo sem carga. A solução estacionária mais geral de buraco negro conhecida é a métrica de Kerr-Newman, que descreve um buraco negro com carga e momento angular.</p>
+
+<p>Enquanto a massa de um buraco negro pode assumir qualquer valor positivo, a carga e o momento angular são restringidos pela massa. Nas unidades de Planck, a carga elétrica total Q e o momento angular total J devem satisfazer</p>
+<img src="/Captura de tela_2023-03-25_03-17-39.png" align="left" width="200" hspace="10" vspace="10">
+<br>
+
 
 ## 🔩 Instruções para uso local
 
