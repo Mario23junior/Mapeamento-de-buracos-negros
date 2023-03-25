@@ -22,7 +22,7 @@
 </div>
 
  <h3 align="center">
-API REST de código aberto para dados de consulta e pesquisa, as informações contida foram desenvolvidas usando como base a estruturas da <a href="https://www.nasa.gov/subject/6893/nebulae/" target="_blank">NASA</a>
+Dados de consulta e pesquisa, as informações contida foram desenvolvidas usando como base a estruturas da <a href="https://www.nasa.gov/subject/6893/nebulae/" target="_blank">NASA</a>
  e o laboratorio <a href="https://chandra.harvard.edu/photo/2007/orion/" target="_blank">Chandra</a> usando dados estruturais da base organizacional.
 <p align="center">
  
