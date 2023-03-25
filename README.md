@@ -43,9 +43,15 @@ Isso significa que não há diferença observável à distância entre o campo g
 <p>Enquanto a massa de um buraco negro pode assumir qualquer valor positivo, a carga e o momento angular são restringidos pela massa. Nas unidades de Planck, a carga elétrica total Q e o momento angular total J devem satisfazer</p>
 <img src="/Captura de tela_2023-03-25_03-17-39.png" align="left" width="200" hspace="10" vspace="10">
 <br>
+<br>
+<p> Em que raio está a órbita circular mais interna e estável? Para descobrir, escreva a equação de energia de uma partícula orbitando um buraco negro com uma função potencial efetiva como </p>
+<img src="/image-10.png" align="left" width="200" hspace="10" vspace="10">
+<br>
+<br>
+<br>
+<br>
 
-
-## 🔩 Instruções para uso local
+### 🔩 Instruções para uso local
 
 Clone o repositório:
 
