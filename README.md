@@ -38,7 +38,7 @@ Clone o repositório:
 
 Git:
 ```
-$ git clone https://github.com/Mario23junior/Galaxy-API.git
+$ git clone https://github.com/Mario23junior/Mapeamento-de-buracos-negros.git
 ```
 Ou baixe um ZIP de main [manualmente](https://github.com/Mario23junior/Galaxy-API/archive/refs/heads/main.zip) e expanda o conteúdo em algum lugar em seu sistema
 
