@@ -33,6 +33,9 @@ Dados de consulta e pesquisa, as informações contida foram desenvolvidas usan
 
 ## 👨‍💻 Objetivo de crição do algoritmo
 
+<p>Esta nova visualização de um buraco negro ilustra como sua gravidade distorce nossa visão, distorcendo seus arredores como se fossem vistos em um espelho de carnaval. A visualização simula a aparência de um buraco negro onde a matéria em queda se acumulou em uma estrutura fina e quente chamada disco de acreção. A extrema gravidade do buraco negro distorce a luz emitida por diferentes regiões do disco, produzindo a aparência disforme.</p>
+<img src="/bhoptics_explained-1.png" align="left" width="600" hspace="10" vspace="10">
+
 Os buracos negros estáticos mais simples têm massa, mas não têm nem carga elétrica nem momento angular. 
 Esses buracos negros são frequentemente chamados de buracos negros de Schwarzschild, em homenagem a Karl Schwarzschild, que descobriu essa solução em 1916.
 <p>Segundo o teorema de Birkhoff, é a única solução a vácuo esfericamente simétrica.</p>
