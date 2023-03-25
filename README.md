@@ -110,7 +110,8 @@ Em seguida execute o arquivo `mvnw` na raiz do projeto no IntelliJ ou eclipse qu
 ```
 
 Você deve ver uma saída como a seguinte:
-```
+
+## 🔧 🔨 🛠  Construído com ⛏ 🪚 🔩 ⚙️
 
 * [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 * [Spring boot](https://spring.io/projects/spring-boot)
@@ -119,6 +120,6 @@ Você deve ver uma saída como a seguinte:
 * [openJDK](https://maven.apache.org/)
 * [NASA](https://solarsystem.nasa.gov/)
 
-## 📄 Licença
+## 📄 Licença ##
 
 Este projeto está sob a licença (GNU GPLv3) - [GNU GPLv3.md](https://www.gnu.org/licenses/gpl-3.0.pt-br.html)
