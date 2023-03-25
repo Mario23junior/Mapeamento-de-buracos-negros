@@ -31,6 +31,12 @@ Dados de consulta e pesquisa, as informações contida foram desenvolvidas usan
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer"><img src="https://img.shields.io/badge/interface%20-build-green.svg"></a>
 </p>
 
+## 👨‍💻 Objetivo de crição do algoritmo
+
+Os buracos negros estáticos mais simples têm massa, mas não têm nem carga elétrica nem momento angular. 
+Esses buracos negros são frequentemente chamados de buracos negros de Schwarzschild, em homenagem a Karl Schwarzschild, que descobriu essa solução em 1916.
+<p>Segundo o teorema de Birkhoff, é a única solução a vácuo esfericamente simétrica.</p>
+Isso significa que não há diferença observável à distância entre o campo gravitacional de um buraco negro e o de qualquer outro objeto esférico da mesma massa
 
 ## 🔩 Instruções para uso local
 
