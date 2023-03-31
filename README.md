@@ -7,7 +7,7 @@
   </a>
 
   
-  <h3 align="center">Projeto cientifico de buracos negros</h3>
+  <h3 align="center">Busca por buracos negros no centro das galaxias</h3>
 
   <h4 align="center">
      <br />
