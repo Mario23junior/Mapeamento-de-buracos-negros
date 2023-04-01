@@ -33,7 +33,7 @@ public class BlackHoleService {
 					.map(listDto -> mapper.map(listDto, BlackHoleDTO.class))
 					.collect(Collectors.toList());
 		} catch (ExceptionsReturnMessageError e) {
-			throw new ExceptionsReturnMessageError("Erro ao listar todas as galaxias ");
+			throw new ExceptionsReturnMessageError("Erro ao listar de buracos negros ");
 		}
  	}
 	
