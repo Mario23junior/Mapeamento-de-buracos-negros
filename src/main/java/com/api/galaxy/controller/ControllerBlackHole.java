@@ -21,10 +21,9 @@ public class ControllerBlackHole {
 		this.service = service;
  	}
 	
-	@GetMapping("/{id}")
-	public ResponseEntity<BlackHoleDTO> listId(@PathVariable Long id) {
-		return service.listId(id);
-		
+	@GetMapping("/{blackid}")
+	public ResponseEntity<BlackHoleDTO> listId(@PathVariable Long blackid) {
+		return service.listId(blackid);
 	}
 	
 	@GetMapping
