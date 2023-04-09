@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="logo.gif">
-    <img src="logo1.gif" alt="Logo" width="700" height="300" style="border-radius: 50%"/>
+    <img src="/img/logo1.gif" alt="Logo" width="700" height="300" style="border-radius: 50%"/>
   </a>
 
   
@@ -34,7 +34,7 @@ Dados de consulta e pesquisa, as informações contida foram desenvolvidas usan
 ## 👨‍💻 Objetivo de crição do algoritmo
 
 <p>Esta nova visualização de um buraco negro ilustra como sua gravidade distorce nossa visão, distorcendo seus arredores como se fossem vistos em um espelho de carnaval. A visualização simula a aparência de um buraco negro onde a matéria em queda se acumulou em uma estrutura fina e quente chamada disco de acreção. A extrema gravidade do buraco negro distorce a luz emitida por diferentes regiões do disco, produzindo a aparência disforme.</p>
-<img src="/bhoptics_explained-1.png" align="left" width="600" hspace="10" vspace="10">
+<img src="/img/bhoptics_explained-1.png" align="left" width="600" hspace="10" vspace="10">
 
 Os buracos negros estáticos mais simples têm massa, mas não têm nem carga elétrica nem momento angular. 
 Esses buracos negros são frequentemente chamados de buracos negros de Schwarzschild, em homenagem a Karl Schwarzschild, que descobriu essa solução em 1916.
@@ -44,11 +44,11 @@ Isso significa que não há diferença observável à distância entre o campo g
 <p>Também existem soluções que descrevem buracos negros mais gerais. Buracos negros carregados sem rotação são descritos pela métrica de Reissner-Nordström, enquanto a métrica de Kerr descreve um buraco negro rotativo sem carga. A solução estacionária mais geral de buraco negro conhecida é a métrica de Kerr-Newman, que descreve um buraco negro com carga e momento angular.</p>
 
 <p>Enquanto a massa de um buraco negro pode assumir qualquer valor positivo, a carga e o momento angular são restringidos pela massa. Nas unidades de Planck, a carga elétrica total Q e o momento angular total J devem satisfazer</p>
-<img src="/Captura de tela_2023-03-25_03-17-39.png" align="left" width="200" hspace="10" vspace="10">
+<img src="/img/Captura de tela_2023-03-25_03-17-39.png" align="left" width="200" hspace="10" vspace="10">
 <br>
 <br>
 <p> Em que raio está a órbita circular mais interna e estável? Para descobrir, escreva a equação de energia de uma partícula orbitando um buraco negro com uma função potencial efetiva como </p>
-<img src="/image-10.png" align="left" width="200" hspace="10" vspace="10">
+<img src="/img/image-10.png" align="left" width="200" hspace="10" vspace="10">
 <br>
 <br>
 <br>
