@@ -26,6 +26,11 @@ public class ControllerBlackHole {
 		return service.listId(blackid);
 	}
 	
+	@GetMapping("/predic/{predic}")
+	public Double listAllPredict(Double predic) {
+		return service.listAllBlackHolePredict(predic);
+	}
+	
 	@GetMapping
 	List<BlackHoleDTO> listAll() {
 		return service.listAllData();

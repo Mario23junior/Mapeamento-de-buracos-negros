@@ -37,6 +37,11 @@ public class BlackHoleService {
 		}
  	}
 	
+	public Double listAllBlackHolePredict(Double predic){
+		BlackHoleDTO bh1 = new BlackHoleDTO();
+  		return bh1.getRedshift();	
+	}
+	
 	public ResponseEntity<BlackHoleDTO> listId(Long id) {
 		Optional<BlackHole> listId = blackHoleRepositpry.findById(id);
 		if(listId.isPresent()) {
