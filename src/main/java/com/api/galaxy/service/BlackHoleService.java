@@ -14,6 +14,7 @@ import com.api.galaxy.exceptions.ExceptionsReturnMessageError;
 import com.api.galaxy.model.BlackHole;
 import com.api.galaxy.repository.BlackHoleRepositpry;
 
+
 @Service
 public class BlackHoleService {
 
@@ -37,9 +38,9 @@ public class BlackHoleService {
 		}
  	}
 	
-	public Double listAllBlackHolePredict(Double predic){
-		BlackHoleDTO bh1 = new BlackHoleDTO();
-  		return bh1.getRedshift();	
+	public String listAllBlackHolePredict(Double predic){
+		String base = String.valueOf(predic);
+  		return base;
 	}
 	
 	public ResponseEntity<BlackHoleDTO> listId(Long id) {
