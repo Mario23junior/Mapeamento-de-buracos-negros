@@ -13,6 +13,7 @@ import com.api.galaxy.dto.BlackHoleDTO;
 import com.api.galaxy.exceptions.ExceptionsReturnMessageError;
 import com.api.galaxy.model.BlackHole;
 import com.api.galaxy.repository.BlackHoleRepositpry;
+import com.api.galaxy.utils.RegressaoLinear;
 
 
 @Service
@@ -38,9 +39,10 @@ public class BlackHoleService {
 		}
  	}
 	
-	public String listAllBlackHolePredict(Double predic){
-		String base = String.valueOf(predic);
-  		return base;
+	public Double listAllBlackHolePredict(double[] predict, double[] yBase){
+		double[] x = predict;
+ 	    double[] y = yBase;
+		return RegressaoLinear.regressaoLinearBlackhole(x, y, 100);
 	}
 	
 	public ResponseEntity<BlackHoleDTO> listId(Long id) {

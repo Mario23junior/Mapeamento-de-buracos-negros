@@ -3,14 +3,7 @@ package com.api.galaxy.utils;
  
 import static smile.math.MathEx.*;
 
-public class RegressaoLinear {
-   
-//	 CSVFormat format = CSVFormat.DEFAULT.withFirstRecordAsHeader();
- //	        
-//	     
-//	        	
-//	    System.out.printf("  regressaoLinear(x, y, 100));
-	  	
+public class RegressaoLinear {	  	
 	  public static double predicao (double alpha, double beta, double x) {
 	    return alpha + beta * x;
 	  }
