@@ -42,7 +42,7 @@ public class BlackHoleService {
 	public Double listAllBlackHolePredict(double[] predict, double[] yBase){
 		double[] x = predict;
  	    double[] y = yBase;
-		return RegressaoLinear.regressaoLinearBlackhole(x, y, 100);
+		return RegressaoLinear.regressaoLinearBlackhole(x, y, 121209);
 	}
 	
 	public ResponseEntity<BlackHoleDTO> listId(Long id) {
