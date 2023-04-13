@@ -27,7 +27,7 @@ public class ControllerBlackHole {
 	}
 	
 	@GetMapping("/predic/{predic}")
-	public Double listAllPredict(Double predic) {
+	public String listAllPredict(@PathVariable Double predic) {
 		return service.listAllBlackHolePredict(predic);
 	}
 	
