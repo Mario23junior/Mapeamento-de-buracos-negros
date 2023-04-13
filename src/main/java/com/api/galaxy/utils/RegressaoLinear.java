@@ -16,8 +16,8 @@ public class RegressaoLinear {
 
 	  public static double regressaoLinearBlackhole(double[] x, double[] y, double z) {
 	    double[] alpha_beta = minimos_quadrados(x, y);
-	    System.out.println("alpha: " + alpha_beta[0]); // -48.1212291326
-	    System.out.println("beta: " + alpha_beta[1]); // 5.6647974510
+	    System.out.println("alpha: " + alpha_beta[0]); 
+	    System.out.println("beta: " + alpha_beta[1]); 
 	    return predicao(alpha_beta[0], alpha_beta[1], z);
 	  }
 }
