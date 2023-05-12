@@ -35,4 +35,6 @@ public class ControllerBlackHole {
 	List<BlackHoleDTO> listAll() {
 		return service.listAllData();
 	}
+	
 }
+
