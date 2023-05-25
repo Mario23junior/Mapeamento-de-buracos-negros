@@ -27,6 +27,8 @@ public class BlackHoleService {
 		this.mapper = mapper;
 	}
 	
+	// Listando todas as galaxias
+	// com possiveis buracos negros 
 	public List<BlackHoleDTO> listAllData() {
 		List<BlackHole> list = blackHoleRepositpry.findAll();
 		try {
