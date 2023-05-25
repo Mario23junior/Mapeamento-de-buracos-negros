@@ -39,6 +39,7 @@ public class BlackHoleService {
 		}
  	}
 	
+	// Classe de retorno predição e recebimento dos dados
 	public Double listAllBlackHolePredict(double[] predict, double[] yBase){
 		double[] x = predict;
  	    double[] y = yBase;
