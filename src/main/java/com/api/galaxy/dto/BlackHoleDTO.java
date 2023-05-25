@@ -4,6 +4,7 @@ import org.hibernate.validator.constraints.Length;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
+// Classe de converção para DTO
 @JsonPropertyOrder({ "id", "nome", "optico", "raioXInfravermelho", "opticoInfravermelho" })
 public class BlackHoleDTO {
 
